@@ -5,3 +5,8 @@ day (28-06-2026)
 -- i learn how to genarate a tocken--
 
 -- built coffe-shop-webpage using html,css--
+
+day(29-06-2026)
+
+-- today i did revision of javascript--
+--solve 5 promblem array on leetcode --
