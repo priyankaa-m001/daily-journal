@@ -10,3 +10,9 @@ day(29-06-2026)
 
 -- today i did revision of javascript--
 --solve 5 promblem array on leetcode --
+
+day (30 -06-2026)
+
+today learn about AI/ML bascic
+
+solved 5 problem of array on leetcode
