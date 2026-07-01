@@ -16,3 +16,9 @@ day (30 -06-2026)
 today learn about AI/ML bascic
 
 solved 5 problem of array on leetcode
+
+day (01 -07-2026)
+
+today learn about AI/ML bascic
+
+solved 5 problem of array on leetcode
