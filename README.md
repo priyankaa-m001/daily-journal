@@ -22,3 +22,11 @@ day (01 -07-2026)
 today learn about AI/ML bascic
 
 solved 5 problem of array on leetcode
+
+day (04 -07-2026)
+
+still learn about AI/ML
+
+trying to make AI agent
+ 
+solved 5 problem of array on leetcode
