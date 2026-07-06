@@ -30,3 +30,11 @@ still learn about AI/ML
 trying to make AI agent
  
 solved 5 problem of array on leetcode
+
+day (05 -07-2026)
+
+still learn about AI/ML
+
+trying to make AI agent
+ 
+== build small website using python + AI == heheh happy
