@@ -38,3 +38,8 @@ still learn about AI/ML
 trying to make AI agent
  
 == build small website using python + AI == heheh happy
+
+day (07-07-2026)
+
+== still learn about AI/ML
+== leran to depl website
