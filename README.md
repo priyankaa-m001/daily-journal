@@ -42,4 +42,4 @@ trying to make AI agent
 day (07-07-2026)
 
 == still learn about AI/ML
-== leran to depl website
+== leran to deploy website
