@@ -43,3 +43,8 @@ day (07-07-2026)
 
 == still learn about AI/ML
 == leran to deploy website
+
+day (08-07-2026)
+
+== today i learn about LLM
+== 
