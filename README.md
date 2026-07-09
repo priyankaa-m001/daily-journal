@@ -48,3 +48,7 @@ day (08-07-2026)
 
 == today i learn about LLM
 == still doing DSA
+
+day (09-07-2026)
+
+== solve the DSA
