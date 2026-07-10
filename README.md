@@ -52,3 +52,7 @@ day (08-07-2026)
 day (09-07-2026)
 
 == solve the DSA
+
+day (10-07-2026)
+
+== still learning AI/ML
