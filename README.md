@@ -56,3 +56,8 @@ day (09-07-2026)
 day (10-07-2026)
 
 == still learning AI/ML
+
+day (11-07-2026)
+
+== learning AI/ML
+== working on project 
