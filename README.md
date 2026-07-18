@@ -72,6 +72,9 @@ day (15-07-2026)
 
 == solve the DSA
 
+day (18-07-2026)
+
+== learning about neural network
 
 
 day (12-07-2026)
