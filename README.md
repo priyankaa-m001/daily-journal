@@ -82,3 +82,8 @@ day (12-07-2026)
 == learning AI/ML
 == working on project 
 == solve the DSA 
+
+day (24-07-2026)
+
+== learning AI/ML
+== working on project
