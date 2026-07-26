@@ -87,3 +87,7 @@ day (24-07-2026)
 
 == learning AI/ML
 == working on project
+
+day (24-07-2026)
+
+== fundamental of html,css,javascript 
