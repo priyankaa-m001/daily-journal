@@ -101,6 +101,6 @@ day (28-07-2026)
  day (01-08-2026)
 
  html,css,javascript
-
-data structures algorithm
+ practicing python 
+ data structures algorithm
  
