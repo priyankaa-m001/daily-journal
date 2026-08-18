@@ -113,7 +113,7 @@ day (28-07-2026)
   html,css,javascript
   landing page 
 
-**** day (09-08-2026)
+**** day (18-08-2026)
   html,css,javascript
    practicing python 
 
