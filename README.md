@@ -110,12 +110,14 @@ day (28-07-2026)
  practicing python
 
   day (09-08-2026)
+  html,css,javascript
+  landing page 
 
- html,css,javascript
- practicing python 
+**** day (09-08-2026)
+  html,css,javascript
+   practicing python 
 
- day (13-08-2026)
- practicing python 
+
 
  
  day (15-08-2026)
