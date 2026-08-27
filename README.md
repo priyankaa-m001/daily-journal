@@ -122,5 +122,8 @@ day (28-07-2026)
  
   day (20-08-2026)
  solved leetcode problem 
+
+  day (27-08-2026)
+  solved pattern problem 
  
  
