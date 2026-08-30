@@ -125,5 +125,8 @@ day (28-07-2026)
 
   day (27-08-2026)
   solved pattern problem 
+
+  day (30-08-2026)
+  solved pattern problem 
  
  
