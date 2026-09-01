@@ -129,4 +129,6 @@ day (28-07-2026)
   day (30-08-2026)
   solved pattern problem 
  
+   day (1-09-2026)
+revision of api,ai 
  
